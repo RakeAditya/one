@@ -3,3 +3,4 @@ Lest add another line to the file
 hello
 
 Added a nex bug to project
+Resolved this bug
